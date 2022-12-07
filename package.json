@@ -1,5 +1,5 @@
 {
-  "name": "delta-fund-airdrops",
+  "name": "CosmosFalconXYZ-Token-Registry",
   "version": "1.0.0",
   "description": "",
   "main": "updateAirdrops.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blockful-io/delta-fund-airdrops.git"
+    "url": "git+https://github.com/Multiplex-Lab/CosmosFalconXYZ-Token-Registry.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blockful-io/delta-fund-airdrops/issues"
+    "url": "https://github.com/Multiplex-Lab/CosmosFalconXYZ-Token-Registry/issues"
   },
-  "homepage": "https://github.com/blockful-io/delta-fund-airdrops#readme",
+  "homepage": "https://github.com/Multiplex-Lab/CosmosFalconXYZ-Token-Registry#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
     "axios": "^0.27.2",
